@@ -17,5 +17,10 @@
             ]
         }
     },
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Phppirate\\ViteStubby\\": "src/"
+        }
+    }
 }
