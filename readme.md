@@ -9,9 +9,8 @@ module.exports = {
     mode: 'jit',
     purge: [
         './resources/views/**/*',
-        './resources/js/components/**/*',
-        './resources/js/views/**/*',
-        './resources/js/Design/**/*'
+        './resources/ts/components/**/*',
+        './resources/ts/views/**/*',
     ],
     darkMode: false,
     theme: {},
