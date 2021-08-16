@@ -1,0 +1,12 @@
+{
+    "name": "mission4/vite-stubby",
+    "description": "Vite Scaffolding for Laravel Apps",
+    "type": "laravel-package",
+    "authors": [
+        {
+            "name": "Sam Podlogar",
+            "email": "sam@podlogar.com"
+        }
+    ],
+    "require": {}
+}
