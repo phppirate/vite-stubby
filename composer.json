@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mission4\\ViteStubby\\ViteStubbyProvider"
+                "Phppirate\\ViteStubby\\ViteStubbyProvider"
             ]
         }
     },
