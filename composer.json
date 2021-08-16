@@ -1,5 +1,5 @@
 {
-    "name": "mission4/vite-stubby",
+    "name": "phppirate/vite-stubby",
     "description": "Vite Scaffolding for Laravel Apps",
     "type": "laravel-package",
     "authors": [
