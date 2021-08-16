@@ -10,5 +10,12 @@
             "email": "sam@podlogar.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mission4\\ViteStubby\\ViteStubbyProvider"
+            ]
+        }
+    },
     "require": {}
 }

@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Support\HtmlString;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\HtmlString;
 
 function vite_assets($cssOnly = false)
 {

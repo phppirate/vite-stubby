@@ -1,6 +1,6 @@
 <?php
 
-namespace Mission4\ViteStubby\Commands;
+namespace Phppirate\ViteStubby\Commands;
 
 use Illuminate\Support\Str;
 use Illuminate\Console\Command;

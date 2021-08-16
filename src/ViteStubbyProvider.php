@@ -1,9 +1,9 @@
 <?php
 
-namespace Mission4\ViteStubby;
+namespace Phppirate\ViteStubby;
 
 use Illuminate\Support\ServiceProvider;
-use Mission4\ViteStubby\Commands\InstallCommand;
+use Phppirate\ViteStubby\Commands\InstallCommand;
 
 class ViteStubbyProvider extends ServiceProvider
 {

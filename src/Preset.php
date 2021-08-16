@@ -1,6 +1,6 @@
 <?php
 
-namespace Mission4\ViteStubby;
+namespace Phppirate\ViteStubby;
 
 class Preset
 {
